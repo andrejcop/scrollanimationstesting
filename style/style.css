@@ -195,23 +195,27 @@
 
 .konec {
   position: fixed;
-  top: 40%;
-  left: 45%;
-  -webkit-transform: perspective(600px) translateZ(-800px);
-          transform: perspective(600px) translateZ(-800px);
+  top: 30%;
+  left: 28%;
+  -webkit-transform: perspective(600px) translateZ(-8000px);
+          transform: perspective(600px) translateZ(-8000px);
   color: transparent;
   -webkit-transition-duration: 1000ms;
           transition-duration: 1000ms;
 }
 
 .konec1 {
-  -webkit-transform: perspective(600px) translateZ(300px);
-          transform: perspective(600px) translateZ(300px);
-  top: 40%;
-  left: 45%;
+  -webkit-transform: perspective(600px) translateZ(0px);
+          transform: perspective(600px) translateZ(0px);
+  top: 30%;
+  left: 28%;
   position: fixed;
   color: black;
   -webkit-transition-duration: 1000ms;
           transition-duration: 1000ms;
+}
+
+h1 {
+  font-size: 200px;
 }
 /*# sourceMappingURL=style.css.map */
