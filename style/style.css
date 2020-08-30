@@ -218,4 +218,17 @@
 h1 {
   font-size: 200px;
 }
+
+@media only screen and (max-width: 700px) {
+  .contain1 {
+    padding: 0px;
+  }
+  h1 {
+    font-size: 500%;
+  }
+  .konec1, .konec {
+    top: 30%;
+    left: 18%;
+  }
+}
 /*# sourceMappingURL=style.css.map */

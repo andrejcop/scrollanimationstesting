@@ -196,3 +196,17 @@ $color3:rgb(201, 238, 141);
 h1 {
     font-size: 200px;
 }
+@media only screen and (max-width: 700px) {
+    .contain1 {
+        padding: 0px;
+    }
+    h1 {
+        font-size: 500%;
+    }
+    .konec1, .konec {
+        top: 30%;
+        left: 18%;
+    }
+    
+    
+  }
