@@ -69,10 +69,9 @@
 .kvadratbejs {
   height: 50%;
   width: 50%;
-  -webkit-transform: translate(1000px, -1000px);
-          transform: translate(1000px, -1000px);
-  -webkit-transition-duration: 1000ms;
-          transition-duration: 1000ms;
+  -webkit-transition-duration: 500ms;
+          transition-duration: 500ms;
+  opacity: 0;
   float: right;
 }
 
@@ -107,10 +106,9 @@
 .kvadratbejs1 {
   height: 50%;
   width: 50%;
-  -webkit-transform: translate(-1000px, -1000px);
-          transform: translate(-1000px, -1000px);
-  -webkit-transition-duration: 1000ms;
-          transition-duration: 1000ms;
+  -webkit-transition-duration: 500ms;
+          transition-duration: 500ms;
+  opacity: 0;
 }
 
 .krog2 {
@@ -144,10 +142,9 @@
 .kvadratbejs2 {
   height: 50%;
   width: 50%;
-  -webkit-transform: translate(1000px, 1000px);
-          transform: translate(1000px, 1000px);
-  -webkit-transition-duration: 1000ms;
-          transition-duration: 1000ms;
+  -webkit-transition-duration: 500ms;
+          transition-duration: 500ms;
+  opacity: 0;
   float: right;
 }
 
@@ -179,10 +176,9 @@
 .kvadratbejs3 {
   height: 50%;
   width: 50%;
-  -webkit-transform: translate(-1000px, 1000px);
-          transform: translate(-1000px, 1000px);
-  -webkit-transition-duration: 1000ms;
-          transition-duration: 1000ms;
+  -webkit-transition-duration: 500ms;
+          transition-duration: 500ms;
+  opacity: 0;
 }
 
 .test {

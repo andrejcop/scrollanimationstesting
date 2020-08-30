@@ -67,9 +67,9 @@ $color3:rgb(201, 238, 141);
 
 .kvadratbejs {
     height: 50%;
-    width: 50%;
-    transform: translate(1000px,-1000px);
-    transition-duration: 1000ms;
+    width: 50%;    
+    transition-duration: 500ms;
+    opacity: 0;
     float: right;
 }
 
@@ -101,8 +101,8 @@ $color3:rgb(201, 238, 141);
 .kvadratbejs1 {
     height: 50%;
     width: 50%;
-    transform: translate(-1000px,-1000px);
-    transition-duration: 1000ms;
+    transition-duration: 500ms;
+    opacity: 0;
 }
 
 .krog2 {
@@ -132,9 +132,9 @@ $color3:rgb(201, 238, 141);
 
 .kvadratbejs2 {
     height: 50%;
-    width: 50%;
-    transform: translate(1000px,1000px);
-    transition-duration: 1000ms;
+    width: 50%;  
+    transition-duration: 500ms;
+    opacity: 0;
     float: right;
 }
 
@@ -162,9 +162,9 @@ $color3:rgb(201, 238, 141);
 
 .kvadratbejs3 {
     height: 50%;
-    width: 50%;
-    transform: translate(-1000px,1000px);
-    transition-duration: 1000ms;
+    width: 50%;    
+    transition-duration: 500ms;
+    opacity: 0;
 }
 
 .test {
