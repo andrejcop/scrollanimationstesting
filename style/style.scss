@@ -2,6 +2,9 @@ $color1: rgb(102, 169, 231);
 $color2: rgb(122, 241, 192);
 $color3:rgb(201, 238, 141);
 
+html {
+    background-color: $color2;
+}
 .scroll {
     height: 5000px;
     width: 100%;
